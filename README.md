@@ -1,5 +1,5 @@
-JavaScript Split by First Only using Regex Demo
-===============================================
+JavaScript Split by Regex with Capture Group Demo
+=================================================
 
 ```
 brew install nodejs
